@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T18:38:59.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7cgw21VHa-lhkLJlu1wB" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T23:31:24.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="23tew7hG4yULt2iCJf7t" version="20.2.2" type="github">
   <diagram id="K2wtgLba0UGPdxS2To5Y" name="Page-1">
-    <mxGraphModel dx="815" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,41 +43,44 @@
         <mxCell id="QgQLh_mZr2YG5d0q6u3V-12" value="Digital&lt;br&gt;Bitstream&lt;br&gt;Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="510" y="100" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-1" value="VST3 Buffer Process Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-1" value="VST3 Buffer Process Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="210" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-3" value="VST3 Processing Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-3" value="VST3 Processing Cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="50" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="MKMkW7b9PEhU2QLqhMVX-4" target="MKMkW7b9PEhU2QLqhMVX-7">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="MKMkW7b9PEhU2QLqhMVX-4" target="MKMkW7b9PEhU2QLqhMVX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-4" value="Read parameters&lt;br&gt;and cook variables" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-4" value="Read parameters&lt;br&gt;and cook variables" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="MKMkW7b9PEhU2QLqhMVX-5" target="MKMkW7b9PEhU2QLqhMVX-11">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" parent="1" source="MKMkW7b9PEhU2QLqhMVX-5" target="MKMkW7b9PEhU2QLqhMVX-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-5" value="process&lt;br&gt;audio&lt;br&gt;buffers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-5" value="process&lt;br&gt;audio&lt;br&gt;buffers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="60" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="MKMkW7b9PEhU2QLqhMVX-6" target="MKMkW7b9PEhU2QLqhMVX-9">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="MKMkW7b9PEhU2QLqhMVX-6" target="MKMkW7b9PEhU2QLqhMVX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-6" value="Write output&lt;br&gt;parameter&lt;br&gt;information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-6" value="Write output&lt;br&gt;parameter&lt;br&gt;information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="60" y="380" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-7" value="for (iterate inputParameterChanges)&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;IParamValueQueue * queue = get input param queue(i)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;queue -&amp;gt; getPoint(N);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;cookParameter(paramID, paramValue);&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-7" value="for (iterate inputParameterChanges)&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;IParamValueQueue * queue = get input param queue(i)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;queue -&amp;gt; getPoint(N);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;cookParameter(paramID, paramValue);&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-9" value="for (iterate outputParameterChanges)&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;IParamValueQueue * queue = get output param queue(i)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;queue -&amp;gt; addPoint(n, meterValue, i);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-9" value="for (iterate outputParameterChanges)&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;IParamValueQueue * queue = get output param queue(i)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;queue -&amp;gt; addPoint(n, meterValue, i);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="375" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MKMkW7b9PEhU2QLqhMVX-11" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;get input and output channel counts&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;get ptrs to audio buffers and sidechain&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;process audio (may include side chain)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" vertex="1" parent="1">
+        <mxCell id="MKMkW7b9PEhU2QLqhMVX-11" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;get input and output channel counts&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;get ptrs to audio buffers and sidechain&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;process audio (may include side chain)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="310" width="280" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3jgG3ClkfuBws0-F4cXf-1" value="VST3 SDK 구성" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
